@@ -1,9 +1,9 @@
 const CONFIG = {
     titleWeb: "Chúc mừng 8/3",
     introTitle: 'Hỡi đồng bào thằn lằn yêu dấu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    introDesc: `Trái đất vốn lạ thường \n
+    Mà sao em cứ đi nhầm đường \n
+    Lạc vào tim anh lẻ loi \n
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
